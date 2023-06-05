@@ -1,0 +1,11 @@
+Tugas 1 Membuat Landing Page
+
+untuk layout
+dibagian header saya menggunakan grid kolom
+lalu bagian main saya menggunakan flex kolom
+dan dibagian footer saya menggunakan flex
+
+untuk asset
+saya menggunakan button untuk daftar dan masuk, serta klik konsul.
+Dan untuk icon wa, saya menggunakan hyperlink wa dan svg untuk logo
+
